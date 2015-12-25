@@ -41,7 +41,7 @@ public class MainActivity extends Activity {
      * installation time by the package manager.
      */
     static {
-        System.loadLibrary("TestJNI");
+        System.loadLibrary("NDKHelloWorld");
     }    
 
     
